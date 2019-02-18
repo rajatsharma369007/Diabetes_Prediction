@@ -1,7 +1,7 @@
-# Optimizing models using Randomized grid search
+# Diabetes prediction using different classification models
 
 ## Introduction
-In this notebook, I have implemented randomized grid search to optimize a number of models. I have also performed some data analysis before training to get some better understanding of the data. Random search is a technique where random combinations of the hyperparameters are used to find the best solution for the built model. It is similar to grid search, and yet it has proven to yield better results comparatively.  
+In this notebook, I have implemented randomized grid search to optimize a number of models. I have also performed some data analysis before training to get some better understanding of the data. 
 
 ## Dataset
 I have performed the analysis over the diabetes dataset. [link](https://github.com/rajatsharma369007/Optimizing_models_using_Randomized_grid_search/blob/master/diabetes.csv)  
